@@ -1,0 +1,21 @@
+{
+    "name": "artarts36/ci-git-tagger",
+    "description": "CI Git Tagger",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ArtARTs36\\CiGitTagger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ArtARTs36",
+            "email": "temicska99@mail.ru"
+        }
+    ],
+    "require": {
+        "artarts36/git-handler": "^1.1",
+        "ondram/ci-detector": "^4.1"
+    }
+}
