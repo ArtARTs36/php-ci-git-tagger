@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "artarts36/git-handler": "^1.1",
+        "artarts36/git-handler": "^1.1.12",
         "ondram/ci-detector": "^4.1"
     }
 }
